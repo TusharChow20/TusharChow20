@@ -1,3 +1,4 @@
+![logo](https://github.com/TusharChow20/TusharChow20/blob/main/BannerTushar.png)
 <h1 align="center">Hi, I'm Tushar Chowdhury</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 <img align="right" alt="coding" width="450" src="./profile.gif" />
