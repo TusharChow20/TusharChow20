@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Tushar Chowdhury</h1>
 <h3 align="center">Passionate Software Engineer</h3>
-
+<img align="right" alt="coding" width="450" src=""<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/cb623b00-cd91-41f9-90a2-89b4996389f1" />
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharchow20&label=Profile%20views&color=0e75b6&style=flat" alt="tusharchow20" /> </p>
 
 - 🌱 I’m currently learning **React,JavaScript**
