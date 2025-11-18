@@ -34,7 +34,7 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
   <a href="https://linkedin.com/in/tusharchowdhury20211" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="mailto:tusharchow2021@gmail.com" target="_blank">
+  <a href="mailto:tusharchowdhury20211@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" height="40" width="40"/>
   </a>
 </p>
