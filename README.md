@@ -1,6 +1,5 @@
 ![Banner](https://github.com/TusharChow20/TusharChow20/blob/main/BannerTushar.png)
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&duration=2800&color=56D3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Chowdhury" alt="Typing SVG" />
@@ -20,9 +19,9 @@
 
 I'm a passionate and hardworking learner who enjoys building real-world projects and exploring new technologies. I love solving problems with teamwork, communication, and creativity—while continuously improving my full-stack development skills.
 
-- 🌱 Currently learning **Express.js & MongoDB**
+- 🌱 Currently exploring **TypeScript** and improving full-stack best practices
 - 🔭 Exploring **modern full-stack development**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Firebase, Express, MongoDB**
+- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS, Firebase, Express, MongoDB**
 - 📫 Reach me at **[LinkedIn](https://linkedin.com/in/tusharchowdhury20211)**
 - ⚡ Fun fact: I believe every bug is just an opportunity to learn something new!
 
@@ -39,7 +38,6 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
   </a>
 </p>
 
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -54,6 +52,9 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
@@ -91,6 +92,52 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
 
 <br>
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🍳 Chef Lokal - Home-Cooked Meal Marketplace
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://chef-lokal.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/TusharChow20/project-Chef-Lokal)
+
+**A modern online marketplace connecting talented home chefs with food enthusiasts seeking authentic, homemade meals.**
+
+**Tech Stack:** React 19 • Firebase • TailwindCSS • Express.js • MongoDB • Stripe
+
+**Key Features:**
+- 🔐 Secure JWT & Firebase Authentication with role-based access control
+- 🍽️ Real-time order tracking with status updates and payment integration
+- 👨‍🍳 Chef dashboard for meal listings, order management, and earnings tracking
+- 🛡️ Admin panel with user management, analytics dashboard, and fraud detection
+- 🎨 Smooth animations with Framer Motion and responsive design
+
+[View Frontend →](https://github.com/TusharChow20/project-Chef-Lokal) | [View Backend →](https://github.com/TusharChow20/project-Chef-Lokal-server)
+
+---
+
+### 📚 Life Notes - Share Your Life Lessons
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://life-notes-nu.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/TusharChow20/life-notes-server)
+
+**A premium platform for sharing and discovering life lessons, wisdom, and personal growth stories.**
+
+**Tech Stack:** Next.js 16 • React 19 • NextAuth.js • TailwindCSS • Node.js • MongoDB • Stripe
+
+**Key Features:**
+- ✍️ Create and share life lessons with categorization and emotional tagging
+- 💝 Bookmark favorites, like, comment, and engage with the community
+- 💳 Premium subscription integration with Stripe for exclusive features
+- 🎯 Advanced analytics dashboard and content moderation system
+- 🎨 Beautiful UI with dark mode support and smooth animations
+
+[View Frontend →](https://github.com/TusharChow20/life-notes-frontend) | [View Backend →](https://github.com/TusharChow20/life-notes-server)
+
+</div>
+
+<br>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -115,3 +162,17 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
 <br>
 
 ---
+
+<div align="center">
+
+### 💼 Open to Opportunities
+
+I'm actively seeking full-stack development opportunities where I can contribute to meaningful projects and continue growing as a developer.
+
+### 📫 Let's Connect!
+
+Feel free to reach out for collaborations, opportunities, or just a friendly chat about tech!
+
+**Made with ❤️ by Tushar Chowdhury**
+
+</div>
