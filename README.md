@@ -112,14 +112,14 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
 - 🛡️ Admin panel with user management, analytics dashboard, and fraud detection
 - 🎨 Smooth animations with Framer Motion and responsive design
 
-[View Frontend →](https://github.com/TusharChow20/project-Chef-Lokal) | [View Backend →](https://github.com/TusharChow20/project-Chef-Lokal-server)
+[View Code →](https://github.com/TusharChow20/project-Chef-Lokal)
 
 ---
 
 ### 📚 Life Notes - Share Your Life Lessons
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://life-notes-nu.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/TusharChow20/life-notes-server)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/TusharChow20/project-Life-Notes)
 
 **A premium platform for sharing and discovering life lessons, wisdom, and personal growth stories.**
 
@@ -132,7 +132,7 @@ I'm a passionate and hardworking learner who enjoys building real-world projects
 - 🎯 Advanced analytics dashboard and content moderation system
 - 🎨 Beautiful UI with dark mode support and smooth animations
 
-[View Frontend →](https://github.com/TusharChow20/life-notes-frontend) | [View Backend →](https://github.com/TusharChow20/life-notes-server)
+[View Frontend →](https://github.com/TusharChow20/project-Life-Notes)
 
 </div>
 
