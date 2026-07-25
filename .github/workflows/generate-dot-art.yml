@@ -1,0 +1,50 @@
+name: Regenerate Dot-Art Portrait
+
+# Runs daily and can also be triggered manually from the Actions tab.
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "assets/profile-source.png"
+      - "scripts/generate_dot_art_animated.py"
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate animated dot-art SVG
+        run: |
+          python3 scripts/generate_dot_art_animated.py \
+            assets/profile-source.png \
+            assets/dot-art-animated.svg \
+            --cols 70 \
+            --fg "#39d353" \
+            --duration 2.6
+
+      - name: Commit updated SVG if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- assets/dot-art-animated.svg; then
+            git add assets/dot-art-animated.svg
+            git commit -m "chore: regenerate dot-art portrait [automated]"
+            git push
+          else
+            echo "No changes to dot-art-animated.svg — skipping commit."
+          fi
