@@ -7,6 +7,12 @@
 </h1>
 <h3 align="center">Passionate Full-Stack Developer | Building the Future, One Line of Code at a Time</h3>
 
+<p align="center">
+  <img src="./assets/dot-art.svg" width="300" alt="Tushar dot-art portrait" />
+  &nbsp;&nbsp;
+  <img src="./assets/neofetch-card.svg" width="440" alt="Tushar terminal info card" />
+</p>
+
 <img align="right" alt="coding" width="400" src="./profile.gif" />
 
 <p align="left">
