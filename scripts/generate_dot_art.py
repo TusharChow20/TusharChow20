@@ -63,7 +63,7 @@ def main():
     ap.add_argument("output")
     ap.add_argument("--cols", type=int, default=90, help="Grid columns (detail level)")
     ap.add_argument("--invert", action="store_true", help="Invert brightness mapping")
-    ap.add_argument("--fg", default="#39d353", help="Dot color (default GitHub green)")
+    ap.add_argument("--fg", default="#ffffff", help="Dot color (default GitHub green)")
     ap.add_argument("--bg", default="#0d1117", help="Background color (default GitHub dark)")
     ap.add_argument("--crop", default=None,
                      help="Optional crop box 'left,top,right,bottom' in pixels")
