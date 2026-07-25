@@ -34,8 +34,8 @@ jobs:
             assets/profile-source.png \
             assets/dot-art-animated.svg \
             --cols 70 \
-            --fg "#39d353" \
-            --duration 2.6
+            --fg "#ffffff" \
+            --duration 4.6
 
       - name: Commit updated SVG if changed
         run: |
